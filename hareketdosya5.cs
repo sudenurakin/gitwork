@@ -1,0 +1,1 @@
+Hareket bu şekilde olacak.
