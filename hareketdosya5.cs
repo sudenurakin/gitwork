@@ -1,1 +1,2 @@
-Hareket kodu yazıldı.
+Hareket bu şekilde olacak.
+>>>>>>> back
